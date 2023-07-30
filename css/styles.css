@@ -1,3 +1,6 @@
 ul {
     list-style: none;
 }
+.title .link {
+    color: pink;
+}

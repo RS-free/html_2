@@ -2,5 +2,19 @@ ul {
     list-style: none;
 }
 .title .link {
-    color: pink;
+    color: rgb(0, 145, 255);
+}
+p {
+    color: #008080;
+}
+th {
+    color: #ff0257;
+}
+
+td {
+    color: green;
+}
+
+tr > td {
+    color: rgb(184, 189, 35);
 }

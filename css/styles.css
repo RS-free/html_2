@@ -19,3 +19,21 @@ td {
 tr > td {
     color: rgb(184, 189, 35);
 }
+
+.btn {
+    display: inline-block;
+    padding: 20px 40px;
+    background-color: tomato;
+    border: 2px solid black;
+    border-radius: 3px;
+    color: white;
+    text-decoration: none;
+}
+
+.btn:hover,
+.btn:focus {
+    background-color: black;
+    color: #ffffff;
+    border: 2px solid tomato;
+    border-radius: 3px;
+}

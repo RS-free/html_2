@@ -16,7 +16,8 @@ ul {
     text-decoration: none;
 }
 p {
-    color: #008080;
+    color: grey;
+    background-color: black;
 }
 th {
     color: #ff0257;
